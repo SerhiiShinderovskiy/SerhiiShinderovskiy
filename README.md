@@ -19,6 +19,5 @@ I'm Serhii Shinderovskiy a Junior Full Stack Developer. I spend most of my time 
 <br/>
 <br/>
 
-![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiShinderovskiy&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiShinderovskiy&layout=compact)](https://github.com/SerhiiShinderovskiy/github-readme-stats)
+<img align="left" width="47%" alt="Serhii's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SerhiiShinderovskiy&show_icons=true&theme=transparent"/>
+<img align="left" width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiShinderovskiy&layout=compact"/>
