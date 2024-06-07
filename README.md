@@ -12,3 +12,6 @@ I'm Serhii Shinderovskiy a Junior Full Stack Developer. I spend most of my time 
 ![Static Badge](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=black&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%2361DAFB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black&color=%233178C6)
+![Static Badge](https://img.shields.io/badge/REDUX-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=black&color=%23764ABC)
+![Static Badge](https://img.shields.io/badge/NODEJS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black&color=%235FA04E)
+![Static Badge](https://img.shields.io/badge/POSTGRESQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black&color=%234169E1)
