@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Serhii Shinderovskiy a Junior Full Stack Web Developer. I spend most of my time learning new technologies.
+I'm Serhii Shinderovskiy a Junior Full Stack Web Developer with deep knowledge in cybersecurity. I spend most of my time learning new technologies.
 
 :mailbox: Reach me out!
 
@@ -12,11 +12,13 @@ I'm Serhii Shinderovskiy a Junior Full Stack Web Developer. I spend most of my t
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=black&color=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/REACTBOOTSTRAP-%2341E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=%2341E0FD&labelColor=black&color=%2341E0FD)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%2361DAFB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black&color=%233178C6)
 ![Static Badge](https://img.shields.io/badge/REDUX-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=black&color=%23764ABC)
 ![Static Badge](https://img.shields.io/badge/NODEJS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black&color=%235FA04E)
 ![Static Badge](https://img.shields.io/badge/POSTGRESQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black&color=%234169E1)
+![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=%23F05032)
 
 <br/>
 <br/>
