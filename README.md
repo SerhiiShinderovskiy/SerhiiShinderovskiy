@@ -9,6 +9,8 @@ I'm Serhii Shinderovskiy a Junior Full Stack Web Developer. I spend most of my t
 
 ### Top Technologies
 
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=black&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%2361DAFB?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black&color=%233178C6)
