@@ -23,5 +23,7 @@ I'm Serhii Shinderovskiy a Junior Full Stack Web Developer with deep knowledge i
 <br/>
 <br/>
 
+### My stats ⭐
+
 <img align="left" width="47%" alt="Serhii's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SerhiiShinderovskiy&show_icons=true&theme=transparent"/>
 <img align="left" width="47%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiShinderovskiy&layout=compact"/>
