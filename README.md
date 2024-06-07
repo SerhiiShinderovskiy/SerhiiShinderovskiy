@@ -7,7 +7,7 @@ I'm Serhii Shinderovskiy a Junior Full Stack Web Developer with deep knowledge i
 ![Static Badge](https://img.shields.io/badge/sergiy.shinderovskiy%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fserhii-shinderovskii-077936228%2F%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_feed%253BCrEiSoTpRaq0%252BkWWr1Xw1g%253D%253D)
 
-### Top Technologies
+### Technologies
 
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
