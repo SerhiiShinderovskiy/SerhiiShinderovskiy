@@ -15,3 +15,8 @@ I'm Serhii Shinderovskiy a Junior Full Stack Developer. I spend most of my time 
 ![Static Badge](https://img.shields.io/badge/REDUX-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=black&color=%23764ABC)
 ![Static Badge](https://img.shields.io/badge/NODEJS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black&color=%235FA04E)
 ![Static Badge](https://img.shields.io/badge/POSTGRESQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black&color=%234169E1)
+
+<br/>
+<br/>
+
+![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiShinderovskiy&show_icons=true&theme=transparent)
